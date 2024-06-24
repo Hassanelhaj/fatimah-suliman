@@ -7,7 +7,7 @@ import {SiGmail} from 'react-icons/si'
     const SocialIcons = () => {
         return (
           <div className='flex justify-center items-center gap-2'>
-             <a href='https://www.facebook.com/manooah.memy?mibextid=kFxxJD' target='_blank' className='text-3xl hover:opacity-70' >
+             <a href='https://www.facebook.com/prenciss.hams' target='_blank' className='text-3xl hover:opacity-70' >
               <BsFacebook/>
               </a> 
               <a href='https://chat.whatsapp.com/FWlAWCy0LSO463tbXeQ4Rh' target='_blank' className='text-3xl hover:opacity-70' >
